@@ -14,6 +14,7 @@
 		BF108F7E224DFEA200D0A906 /* note2.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF108F77224DFEA200D0A906 /* note2.wav */; };
 		BF108F7F224DFEA200D0A906 /* note1.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF108F78224DFEA200D0A906 /* note1.wav */; };
 		BF108F80224DFEA200D0A906 /* note4.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF108F79224DFEA200D0A906 /* note4.wav */; };
+		BF108F83224DFF9B00D0A906 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = BF108F82224DFF9B00D0A906 /* .gitignore */; };
 		BFEC2853224DF22700316160 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFEC2852224DF22700316160 /* AppDelegate.swift */; };
 		BFEC2855224DF22700316160 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFEC2854224DF22700316160 /* ViewController.swift */; };
 		BFEC2858224DF22700316160 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFEC2856224DF22700316160 /* Main.storyboard */; };
@@ -29,6 +30,8 @@
 		BF108F77224DFEA200D0A906 /* note2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note2.wav; sourceTree = "<group>"; };
 		BF108F78224DFEA200D0A906 /* note1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note1.wav; sourceTree = "<group>"; };
 		BF108F79224DFEA200D0A906 /* note4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note4.wav; sourceTree = "<group>"; };
+		BF108F82224DFF9B00D0A906 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		BF108F84224DFFAE00D0A906 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BFEC284F224DF22700316160 /* Xylophone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Xylophone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFEC2852224DF22700316160 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFEC2854224DF22700316160 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +69,8 @@
 		BFEC2846224DF22700316160 = {
 			isa = PBXGroup;
 			children = (
+				BF108F84224DFFAE00D0A906 /* README.md */,
+				BF108F82224DFF9B00D0A906 /* .gitignore */,
 				BFEC2851224DF22700316160 /* Xylophone */,
 				BFEC2850224DF22700316160 /* Products */,
 			);
@@ -155,6 +160,7 @@
 				BF108F7D224DFEA200D0A906 /* note7.wav in Resources */,
 				BF108F7A224DFEA200D0A906 /* note5.wav in Resources */,
 				BFEC285D224DF22900316160 /* LaunchScreen.storyboard in Resources */,
+				BF108F83224DFF9B00D0A906 /* .gitignore in Resources */,
 				BFEC285A224DF22900316160 /* Assets.xcassets in Resources */,
 				BF108F7C224DFEA200D0A906 /* note6.wav in Resources */,
 				BF108F7E224DFEA200D0A906 /* note2.wav in Resources */,
